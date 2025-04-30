@@ -5,6 +5,7 @@ import ItemPage from './pages/Item';
 import CustomerPage from './pages/Customer';
 
 class App extends Component{
+  // hi
   render(){
     return (
         <BrowserRouter>
